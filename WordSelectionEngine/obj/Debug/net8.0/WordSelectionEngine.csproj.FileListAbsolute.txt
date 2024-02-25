@@ -1,0 +1,11 @@
+C:\Users\dndyd\OneDrive\바탕 화면\3951\Tp_tutor\WordSelectionEngine\bin\Debug\net8.0\WordSelectionEngine.deps.json
+C:\Users\dndyd\OneDrive\바탕 화면\3951\Tp_tutor\WordSelectionEngine\bin\Debug\net8.0\WordSelectionEngine.dll
+C:\Users\dndyd\OneDrive\바탕 화면\3951\Tp_tutor\WordSelectionEngine\bin\Debug\net8.0\WordSelectionEngine.pdb
+C:\Users\dndyd\OneDrive\바탕 화면\3951\Tp_tutor\WordSelectionEngine\obj\Debug\net8.0\WordSelectionEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dndyd\OneDrive\바탕 화면\3951\Tp_tutor\WordSelectionEngine\obj\Debug\net8.0\WordSelectionEngine.AssemblyInfoInputs.cache
+C:\Users\dndyd\OneDrive\바탕 화면\3951\Tp_tutor\WordSelectionEngine\obj\Debug\net8.0\WordSelectionEngine.AssemblyInfo.cs
+C:\Users\dndyd\OneDrive\바탕 화면\3951\Tp_tutor\WordSelectionEngine\obj\Debug\net8.0\WordSelectionEngine.csproj.CoreCompileInputs.cache
+C:\Users\dndyd\OneDrive\바탕 화면\3951\Tp_tutor\WordSelectionEngine\obj\Debug\net8.0\WordSelectionEngine.dll
+C:\Users\dndyd\OneDrive\바탕 화면\3951\Tp_tutor\WordSelectionEngine\obj\Debug\net8.0\refint\WordSelectionEngine.dll
+C:\Users\dndyd\OneDrive\바탕 화면\3951\Tp_tutor\WordSelectionEngine\obj\Debug\net8.0\WordSelectionEngine.pdb
+C:\Users\dndyd\OneDrive\바탕 화면\3951\Tp_tutor\WordSelectionEngine\obj\Debug\net8.0\ref\WordSelectionEngine.dll
